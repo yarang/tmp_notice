@@ -23,6 +23,9 @@
 ### 2022년 1월 14일
 - ["무송엘티씨, 무채혈 진단기 임상 돌입"](http://www.businesskorea.co.kr/news/articleView.html?idxno=86039)
 
+
+### 2022년 1월 27일
+- ["무송엘티씨, 무채혈 진단기 국내 임상시험 대상자 모집 시작"](http://www.segyebiz.com/newsView/20220125510223)
 ## History
 
 1. 2022-01-03 Token 생성
