@@ -8,6 +8,15 @@
 # 재단설립일
 본 재단은 2022년 1월 1일 설립되었습니다. 이후 토큰 발행과 Token 전송 테스트를 진행하였습니다.
 
+# ISSUES
+## 뉴스 기사
+
+### 2022년 1월 11일
+- Blockchain 개발 업무 협조 계약 진행 (BOLDEX)
+
+### 2022년 1월 14일
+- ["무송엘티씨, 무채혈 진단기 임상 돌입"](http://www.businesskorea.co.kr/news/articleView.html?idxno=86039)
+
 ## History
 
 1. 2022-01-03 Token 생성
