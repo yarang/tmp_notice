@@ -9,10 +9,10 @@
 본 재단은 2022년 1월 1일 설립되었습니다. 이후 토큰 발행과 Token 전송 테스트를 진행하였습니다.
 
 ## White papers
-- [백서 한국어판](./v1.0.5_MEPIUS_WP_KR.pdf)
-- [백서 영문판](./v1.0.5_MEPIUS_WP_EN.pdf)
-- [백서 중국어판](./v1.0.5_MEPIUS_WP_CN.pdf)
-- [백서 일어판](./v1.0.5_MEPIUS_WP_JP.pdf)
+- [백서 한국어판](./v1.0.6_MEPIUS_WP_KR.pdf)
+- [백서 영문판](./v1.0.6_MEPIUS_WP_EN.pdf)
+- [백서 중국어판](./v1.0.6_MEPIUS_WP_CN.pdf)
+- [백서 일어판](./v1.0.6_MEPIUS_WP_JP.pdf)
 
 # ISSUES
 ## 뉴스 기사
