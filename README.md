@@ -11,6 +11,8 @@
 ## White papers
 - [백서 한국어판](./v1.0.5_MEPIUS_WP_KR.pdf)
 - [백서 영문판](./v1.0.5_MEPIUS_WP_EN.pdf)
+- [백서 중국어판](./v1.0.5_MEPIUS_WP_CN.pdf)
+- [백서 일어판](./v1.0.5_MEPIUS_WP_JP.pdf)
 
 # ISSUES
 ## 뉴스 기사
