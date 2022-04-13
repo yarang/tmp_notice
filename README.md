@@ -26,6 +26,9 @@
 ### 2022년 1월 27일
 - ["무송엘티씨, 무채혈 진단기 국내 임상시험 대상자 모집 시작"](http://www.segyebiz.com/newsView/20220125510223)
 
+### 2022년 2월 10일
+- ["2022년 1월 월간 보고서"](https://mepius.com/forum/view/626063)
+
 # Account History
 
 # 계좌 이체 
